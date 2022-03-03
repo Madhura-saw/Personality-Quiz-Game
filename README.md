@@ -7,3 +7,6 @@
 3. Based on your score your personality will be predicted which falls into 3 categories i.e. optimist, pessimist or
 intermeadiate
 4. This game is developed fully using python and its various libraries like tkinter, pil, turtle etc.
+
+### **Technology Stack**
+- Python
